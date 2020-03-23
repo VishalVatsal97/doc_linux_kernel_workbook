@@ -27,7 +27,7 @@ Proc interface is being used by kernel to communicate information to the
 userspace and take input from the userspace. For example: file ``/proc/mounts``
 is a file which lists the file systems which are mounted on the system. 
 
-Proc insterface is useful to communicate some information to the kernel space
+Proc interface is useful to communicate some information to the kernel space
 as well. For example the file ``/proc/sysrq-trigger`` gives you ability to ask
 the kernel to behave differently. For example
 
